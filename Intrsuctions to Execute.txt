@@ -1,0 +1,9 @@
+1) The project needs a twitter account! incase you didn't have it create one.
+2) Open the following Link:- https://developer.twitter.com/en/apps
+3) Login with twitter login credentials.
+4) If you are a newbie then you have to request twitter the permission for updating your account to a developer account.(process generally completes in few minutes)
+5) Create a new app with a project name.
+6) Twitter grants you all permissions and offers you its API's
+7) Update the API's with the already present API's in the project code.
+8) Select the entire code and press ctrl+enter to execute.
+9) A browser opens with a code, copy that code and place it in Rstudio IDLE and press enter.
